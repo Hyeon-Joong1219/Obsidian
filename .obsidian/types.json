@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "속성": "date",
+    "완료": "checkbox",
+    "방문미팅": "text"
+  }
+}

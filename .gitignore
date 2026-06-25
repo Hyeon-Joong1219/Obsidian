@@ -1,0 +1,42 @@
+# ======================
+# Obsidian
+# ======================
+
+# 세션별 워크스페이스 상태 — 열 때마다 덮어써짐
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 내부 캐시
+.obsidian/cache
+
+# Obsidian 휴지통
+.trash/
+
+# ======================
+# 커뮤니티 플러그인 런타임 데이터
+# 아래 주석을 해제하면 플러그인 설정을 Git에서 제외
+# (팀 공유 시에는 포함 권장)
+# ======================
+# .obsidian/plugins/*/data.json
+
+# ======================
+# OS
+# ======================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+desktop.ini
+
+# ======================
+# 대용량 첨부 파일 (선택)
+# Git LFS를 사용하지 않을 경우 주석 해제
+# ======================
+# 7. Attachments/*.pdf
+# 7. Attachments/audio/
